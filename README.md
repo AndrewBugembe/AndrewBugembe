@@ -8,6 +8,12 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/andrewbugembe/configure-azure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/andrewbugembe/azure-network-protocols)
+    
+<h2>👨‍💻 System Administration Projects:</h2>
+
+- <b>Bash scripting (Linux systems)</b>
+  - [Server User Management Script:](https://github.com/AndrewBugembe/delete-users-bash-script)
+ 
 
 <h2>🤳Connect with me:</h2>
 
