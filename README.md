@@ -12,9 +12,8 @@
 <h2>👨‍💻 System Administration Projects:</h2>
 
 - <b>Bash scripting (Linux systems)</b>
-  - [Server User Management Script:](https://github.com/AndrewBugembe/delete-users-bash-script)
- 
-
+  - [Server User Management Script (Delete users):](https://github.com/AndrewBugembe/delete-users-bash-script)
+  - [Server User Management Script (Data Backup script):](https://github.com/AndrewBugembe/delete-users-bash-script)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
