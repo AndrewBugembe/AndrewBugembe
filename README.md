@@ -14,6 +14,13 @@
 - <b>Bash scripting (Linux systems)</b>
   - [Server User Management Script (Delete users):](https://github.com/AndrewBugembe/delete-users-bash-script)
   - [Server Backup Script (rsync):](https://github.com/AndrewBugembe/Linux-admin-backup-script)
+
+<h2>👨‍💻 Test Automation Project (pytest):</h2>
+
+- <b>Bash scripting (Linux systems)</b>
+  - [Server User Management Script (Delete users):](https://github.com/AndrewBugembe/delete-users-bash-script)
+
+ 
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
