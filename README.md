@@ -12,13 +12,13 @@
 <h2>👨‍💻 System Administration Projects:</h2>
 
 - <b>Bash scripting (Linux systems)</b>
-  - [Server User Management Script (Delete users):](https://github.com/AndrewBugembe/delete-users-bash-script)
-  - [Server Backup Script (rsync):](https://github.com/AndrewBugembe/Linux-admin-backup-script)
+  - [Server User Management Script (Delete users)](https://github.com/AndrewBugembe/delete-users-bash-script)
+  - [Server Backup Script (rsync)](https://github.com/AndrewBugembe/Linux-admin-backup-script)
 
 <h2>👨‍💻 Test Automation Project (pytest):</h2>
 
-- <b>Bash scripting (Linux systems)</b>
-  - [Server User Management Script (Delete users):](https://github.com/AndrewBugembe/delete-users-bash-script)
+- <b>Ecommerce Test Automation</b>
+  - [Test Automation](https://github.com/AndrewBugembe/ecom-automation-tests)
 
  
 <h2>🤳Connect with me:</h2>
