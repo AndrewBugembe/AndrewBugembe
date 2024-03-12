@@ -14,6 +14,9 @@
 - <b>Bash scripting (Linux systems)</b>
   - [Server User Management Script (Delete users)](https://github.com/AndrewBugembe/delete-users-bash-script)
   - [Server Backup Script (rsync)](https://github.com/AndrewBugembe/Linux-admin-backup-script)
+- <b>Remote Server Management</b>
+  - [Remote Software Deployment (PDQ DEPLOY)](https://github.com/AndrewBugembe/remote-software-deploymet-PDQ-Deploy)
+  - [Server Monitoring (PDQ INVENTORY)](https://github.com/AndrewBugembe/server-monitoring-PDQ-Inventory)
 
 <h2>👨‍💻 Test Automation Project (pytest):</h2>
 
